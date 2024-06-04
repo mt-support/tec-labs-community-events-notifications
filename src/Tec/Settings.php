@@ -2,11 +2,11 @@
 /**
  * Settings Object.
  *
- * @since __TRIBE_VERSION__
+ * @since 1.0.0
  *
- * @package Tribe\Extensions\__TRIBE_NAMESPACE__
+ * @package Tribe\Extensions\Community_Events_Notifications
  */
-namespace Tribe\Extensions\__TRIBE_NAMESPACE__;
+namespace Tribe\Extensions\Community_Events_Notifications;
 
 use Tribe__Settings_Manager;
 
